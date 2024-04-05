@@ -1,4 +1,6 @@
 # Checker
+![image](https://github.com/Zezenta/Checker/assets/101609455/145f7f31-b45b-48a7-bd2f-b3898231e7e7)
+
 Checker is a very simple, yet useful tool that will let you count the size of each folder inside a directory, and mark with red those bigger than 1GB.
 This will help you check if or which folder is taking too much space in your hard drive.
 
