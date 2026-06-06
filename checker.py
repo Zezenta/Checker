@@ -15,7 +15,7 @@ def get_directory_size(directory):
 
 def main():
     #get the directory where the script is located
-    current_directory = os.path.dirname(os.path.abspath(__file__))
+    current_directory = os.getcwd()
     
     #traverse through each folder in the current directory
     for folder in os.listdir(current_directory):
